@@ -1,0 +1,6 @@
+# Chave privada gerada durante a execução (NÃO publicar no GitHub)
+fernet.key
+__pycache__/
+*.pyc
+.venv/
+venv/

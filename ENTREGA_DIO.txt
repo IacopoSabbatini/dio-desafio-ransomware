@@ -1,0 +1,5 @@
+Descrição sugerida para a entrega na DIO:
+
+Desenvolvi uma demonstração educacional de criptografia e descriptografia de arquivos utilizando Python e a biblioteca Cryptography (Fernet). O projeto inclui os scripts encrypter.py e decrypter.py, documentação no README.md e uma pasta exclusiva para arquivos de teste. A implementação preserva os arquivos originais e limita a operação aos arquivos .txt diretamente dentro de test_files/, com foco no aprendizado de criptografia simétrica, gerenciamento de chaves e versionamento com Git/GitHub.
+
+Antes de enviar, substitua o link do repositório pelo endereço público do seu GitHub.

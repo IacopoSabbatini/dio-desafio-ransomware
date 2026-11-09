@@ -1,0 +1,2 @@
+Arquivo de teste para o desafio educacional de criptografia.
+Este conteúdo deve ser recuperado sem alterações após a descriptografia.
